@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+requests==2.32.3
+yfinance==0.2.51
+fennel-invest-api==1.1.0
+uvatradier==0.4.3
+schwabdev==2.2.6
+firstrade==0.0.30
+pyotp==2.9.0
+public-invest-api==1.0.4
+robin-stocks==3.3.0
+pandas_market_calendars==4.5.1
+fake_useragent==2.0.3
