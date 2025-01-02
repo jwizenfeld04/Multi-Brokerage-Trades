@@ -240,3 +240,12 @@ All contributions and improvements are welcome! Follow these guidelines:
 
 4. **Automation & Scheduling**
    - Potentially schedule trades or polls for updated balances on a recurring basis.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Please see the [LICENSE](LICENSE) file for full license text.
+
+**Disclaimer**  
+This software is provided as-is, without warranty of any kind. Use at your own risk, and always double-check trades within your brokerage accounts.
